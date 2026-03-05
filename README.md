@@ -68,9 +68,16 @@ oportunidad profesional en el sector IT.
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicolasParadaA&theme=radical)
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicolasParadaA&theme=radical)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicolasParadaA&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicolasParadaA&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicolasParadaA&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
