@@ -61,15 +61,19 @@ oportunidad profesional en el sector IT.
 
 ---
 
+
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
 
-![Nicolás's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasParadaA&show_icons=true&theme=radical&hide_border=true&locale=es)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicolasParadaA&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasParadaA&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicolasParadaA&theme=radical)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicolasParadaA&theme=radical)
 
 </div>
+
 
 ---
 
