@@ -41,7 +41,6 @@ oportunidad profesional en el sector IT.
 | [🛒 Proyecto Módulo X](#) | Descripción breve del proyecto | Vue 3, Sass |
 | [🔥 Proyecto Módulo X](#) | Descripción breve del proyecto | Firebase, JS |
 
-> 💡 *Reemplaza los "#" con los links reales de tus otros proyectos*
 
 ---
 
@@ -78,9 +77,9 @@ oportunidad profesional en el sector IT.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasparadaarias/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolasParadaA)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parada809@gmail.com)
 
 </div>
 
