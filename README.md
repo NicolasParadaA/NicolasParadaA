@@ -15,7 +15,7 @@ oportunidad profesional en el sector IT.
 - 🎓 Bootcamp Front-End Developer — SENCE (Módulo 8/activo)
 - 🚀 Actualmente aprendiendo: Vue 3
 - 💡 Intereses: UI/UX, arquitectura de componentes, transformación digital
-- 📫 Contacto: [\[\[LinkedIn\](https://www.linkedin.com/in/nicolasparadaarias/)\](#)](https://www.linkedin.com/in/nicolasparadaarias/) | [Portafolio](#)
+- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/nicolasparadaarias/) | [Portafolio](#)
 
 ---
 
