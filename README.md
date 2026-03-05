@@ -12,7 +12,7 @@ Me interesa el ecosistema tech latinoamericano y estoy en búsqueda de mi primer
 oportunidad profesional en el sector IT.
 
 - 📍 Quilicura, Santiago de Chile
-- 🎓 Bootcamp Front-End Developer — SENCE (Módulo 8/activo)
+- 🎓 Front-End Developer
 - 🚀 Actualmente aprendiendo: Vue 3
 - 💡 Intereses: UI/UX, arquitectura de componentes, transformación digital
 - 📫 Contacto: <a href="https://www.linkedin.com/in/nicolasparadaarias"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> | [Portafolio](#)
