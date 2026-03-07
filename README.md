@@ -8,14 +8,14 @@
 
 Soy estudiante de desarrollo Front-End con formación intensiva en el bootcamp SENCE,
 apasionado por construir interfaces web modernas, accesibles y con buenas prácticas.
-Me interesa el ecosistema tech latinoamericano y estoy en búsqueda de mi primera
+Me interesa el ecosistema tech y estoy en búsqueda de mi primera
 oportunidad profesional en el sector IT.
 
 - 📍 Quilicura, Santiago de Chile
 - 🎓 Front-End Developer
-- 🚀 Actualmente aprendiendo: Vue 3
-- 💡 Intereses: UI/UX, arquitectura de componentes, transformación digital
-- 📫 Contacto: <a href="https://www.linkedin.com/in/nicolasparadaarias"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> | [Portafolio](#)
+- 🚀 Actualmente aprendiendo: Vue 3 y intención de aprender React
+- 💡 Intereses: UI/UX, arquitectura de componentes, transformación digital, desarrollo Web en base a necesidades.
+- 📫 Contacto: <a href="https://www.linkedin.com/in/nicolasparadaarias"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> | [Portafolio (en proceso)](#)
 
 
 ---
@@ -31,6 +31,7 @@ oportunidad profesional en el sector IT.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -39,8 +40,8 @@ oportunidad profesional en el sector IT.
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [💳 Wallet Digital](https://github.com/NicolasParadaA/m2-abp-wallet-digital) | App de billetera digital con diseño responsivo y maquetación avanzada con Box Model | HTML, CSS, JS |
-| [🛒 Proyecto Módulo X](#) | Descripción breve del proyecto | Vue 3, Sass |
-| [🔥 Proyecto Módulo X](#) | Descripción breve del proyecto | Firebase, JS |
+| [🛒 Proyecto Módulo X](#) (en proceso) | Descripción breve del proyecto | Vue 3, Sass |
+| [🔥 Proyecto Módulo X](#) (en proceso) | Descripción breve del proyecto | Firebase, JS |
 
 
 ---
