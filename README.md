@@ -13,7 +13,7 @@ oportunidad profesional en el sector IT.
 
 - 📍 Quilicura, Santiago de Chile
 - 🎓 Front-End Developer
-- 🚀 Actualmente aprendiendo: Vue 3 y intención de aprender React
+- 🚀 Actualmente aprendiendo: Vue 3 e intención de aprender React
 - 💡 Intereses: UI/UX, arquitectura de componentes, transformación digital, desarrollo Web en base a necesidades.
 - 📫 Contacto: <a href="https://www.linkedin.com/in/nicolasparadaarias"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> | [Portafolio (en proceso)](#)
 
