@@ -26,12 +26,17 @@ oportunidad profesional en el sector IT.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue%203-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Vue Router](https://img.shields.io/badge/Vue%20Router-4FC08D?style=for-the-badge&logo=vuerouter&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFC107?style=for-the-badge&logo=pinia&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF6B6B?style=for-the-badge&logo=sweetalert2&logoColor=white)
 
 ---
 
@@ -39,27 +44,27 @@ oportunidad profesional en el sector IT.
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
+| [🛒 Product Showcase](https://github.com/NicolasParadaA/product-showcase) | Aplicación web moderna para mostrar productos con autenticación de usuarios y administración de productos | Vue 3, Vuetify, Firebase, Pinia, Vue Router |
 | [💳 Wallet Digital](https://github.com/NicolasParadaA/m2-abp-wallet-digital) | App de billetera digital con diseño responsivo y maquetación avanzada con Box Model | HTML, CSS, JS |
-| [🛒 Proyecto Módulo X](#) (en proceso) | Descripción breve del proyecto | Vue 3, Sass |
-| [🔥 Proyecto Módulo X](#) (en proceso) | Descripción breve del proyecto | Firebase, JS |
+| [🔥 Proyecto Módulo X](#) (en proceso) | Descripción breve del proyecto | Vue 3, Sass |
 
 
 ---
 
-### 🔍 Caso de Estudio — Wallet Digital
+### 🔍 Caso de Estudio — Product Showcase
 
 > **Proyecto seleccionado como el más representativo de mi crecimiento técnico**
 
 | | |
 |---|---|
-| 📋 **Descripción** | Aplicación de billetera digital que simula una interfaz bancaria moderna con secciones de saldo, movimientos y tarjetas |
-| ⚡ **Desafío principal** | Dominar el modelo de caja (Box Model) de CSS para lograr un diseño preciso, coherente y completamente responsivo sin usar frameworks externos |
-| 💡 **Solución propuesta** | Implementación sistemática de `box-sizing: border-box`, uso estratégico de Flexbox y análisis del flujo del documento para controlar espaciados y alineaciones |
-| 🛠️ **Herramientas utilizadas** | HTML5, CSS3 (Box Model, Flexbox), JavaScript vanilla |
-| 🎯 **Aprendizajes alcanzados** | Comprensión profunda del Box Model, control de layouts complejos sin frameworks, organización semántica del HTML |
-| 📊 **Métricas de impacto** | Diseño adaptable a 3 breakpoints (móvil, tablet, escritorio); interfaz alineada en un 95% al mockup original |
-| ✅ **Habilidades aplicadas** | Maquetación semántica, diseño responsivo, CSS avanzado, control de flujo visual |
-| ❓ **¿Por qué lo elegí?** | Fue el proyecto donde más crecí técnicamente; entender el Box Model fue un quiebre que transformó la forma en que abordo cualquier diseño web |
+| 📋 **Descripción** | Aplicación web completa para mostrar productos con autenticación de usuarios, roles de usuario (admin/normal), CRUD de productos y filtrado por categoría y búsqueda |
+| ⚡ **Desafío principal** | Migrar completamente un proyecto de Bootstrap a Vuetify, eliminando la mezcla de frameworks y mejorando la consistencia visual y la experiencia de usuario |
+| 💡 **Solución propuesta** | Migración sistemática de todos los componentes a Vuetify, implementación de loading states, validación de formularios, mejoras de diseño con sombras y hover effects, y documentación profesional |
+| 🛠️ **Herramientas utilizadas** | Vue 3 (Composition API), Vuetify, Firebase Auth, Firebase Firestore, Vue Router, Pinia, Vite, SweetAlert2 |
+| 🎯 **Aprendizajes alcanzados** | Dominio de Vuetify como framework UI, comprensión profunda de la migración de frameworks, manejo de estado con Pinia, routing con Vue Router, integración con Firebase, buenas prácticas de Git (conventional commits), deploy en Firebase Hosting |
+| 📊 **Métricas de impacto** | 8 componentes migrados, 4 commits profesionales, README.md completo, deploy exitoso en producción, URL: https://product-showcase-5a774.web.app |
+| ✅ **Habilidades aplicadas** | Migración de frameworks, diseño responsivo con Vuetify, autenticación con Firebase, manejo de estado, routing, documentación profesional, Git workflow, deploy en producción |
+| ❓ **¿Por qué lo elegí?** | Fue el proyecto donde consolidé mis conocimientos de Vue 3 y Vuetify, aprendí a migrar frameworks sin perder funcionalidad, y demostré capacidad de trabajar con un stack completo (frontend + backend + deploy) |
 
 ---
 
