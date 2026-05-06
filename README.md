@@ -45,7 +45,7 @@ oportunidad profesional en el sector IT.
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [🛒 Product Showcase](https://github.com/NicolasParadaA/product-showcase) | Aplicación web moderna para mostrar productos con autenticación de usuarios y administración de productos | Vue 3, Vuetify, Firebase, Pinia, Vue Router |
-| [💳 Wallet Digital](https://github.com/NicolasParadaA/m2-abp-wallet-digital) | App de billetera digital con diseño responsivo y maquetación avanzada con Box Model | HTML, CSS, JS |
+| [💳 Wallet Digital](https://github.com/NicolasParadaA/m2-abp-wallet-digital) (en proceso) | App de billetera digital con diseño responsivo y maquetación avanzada con Box Model | HTML, CSS, JS |
 | [🔥 Proyecto Módulo X](#) (en proceso) | Descripción breve del proyecto | Vue 3, Sass |
 
 
@@ -57,14 +57,14 @@ oportunidad profesional en el sector IT.
 
 | | |
 |---|---|
-| 📋 **Descripción** | Aplicación web completa para mostrar productos con autenticación de usuarios, roles de usuario (admin/normal), CRUD de productos y filtrado por categoría y búsqueda |
-| ⚡ **Desafío principal** | Migrar completamente un proyecto de Bootstrap a Vuetify, eliminando la mezcla de frameworks y mejorando la consistencia visual y la experiencia de usuario |
-| 💡 **Solución propuesta** | Migración sistemática de todos los componentes a Vuetify, implementación de loading states, validación de formularios, mejoras de diseño con sombras y hover effects, y documentación profesional |
+| 📋 **Descripción** | Aplicación web para mostrar productos con autenticación, roles de usuario, CRUD de productos y filtrado |
+| ⚡ **Desafío principal** | Migrar de Bootstrap a Vuetify eliminando la mezcla de frameworks y mejorando la consistencia visual |
+| 💡 **Solución propuesta** | Migración de 8 componentes a Vuetify, mejoras de diseño con sombras y hover effects, documentación profesional |
 | 🛠️ **Herramientas utilizadas** | Vue 3 (Composition API), Vuetify, Firebase Auth, Firebase Firestore, Vue Router, Pinia, Vite, SweetAlert2 |
-| 🎯 **Aprendizajes alcanzados** | Dominio de Vuetify como framework UI, comprensión profunda de la migración de frameworks, manejo de estado con Pinia, routing con Vue Router, integración con Firebase, buenas prácticas de Git (conventional commits), deploy en Firebase Hosting |
+| 🎯 **Aprendizajes alcanzados** | Migración de frameworks, diseño responsivo con Vuetify, autenticación con Firebase, manejo de estado, routing, Git workflow, deploy en Firebase Hosting |
 | 📊 **Métricas de impacto** | 8 componentes migrados, 4 commits profesionales, README.md completo, deploy exitoso en producción, URL: https://product-showcase-5a774.web.app |
-| ✅ **Habilidades aplicadas** | Migración de frameworks, diseño responsivo con Vuetify, autenticación con Firebase, manejo de estado, routing, documentación profesional, Git workflow, deploy en producción |
-| ❓ **¿Por qué lo elegí?** | Fue el proyecto donde consolidé mis conocimientos de Vue 3 y Vuetify, aprendí a migrar frameworks sin perder funcionalidad, y demostré capacidad de trabajar con un stack completo (frontend + backend + deploy) |
+| ✅ **Habilidades aplicadas** | Migración de frameworks, diseño responsivo, autenticación con Firebase, manejo de estado, routing, documentación profesional, Git workflow, deploy en producción |
+| ❓ **¿Por qué lo elegí?** | Fue el proyecto donde aprendí a migrar frameworks sin perder funcionalidad y trabajé con un stack completo (frontend + backend + deploy) |
 
 ---
 
