@@ -6,14 +6,14 @@
 
 ### 🙋‍♂️ Sobre mí
 
-Soy estudiante de desarrollo Front-End con formación intensiva en el bootcamp SENCE,
-apasionado por construir interfaces web modernas, accesibles y con buenas prácticas.
-Me interesa el ecosistema tech y estoy en búsqueda de mi primera
-oportunidad profesional en el sector IT.
+Ingeniería Mecánica Automotriz reconvertido al Frontend. 
+Mi formación en diagnóstico técnico y documentación de precisión la aplico hoy a construir interfaces web con Vue 3, JavaScript y Bootstrap.
+
+Terminé un bootcamp de Desarrollo Frontend Vue.js (Talento Digital - SENCE) y estoy en búsqueda de mi primera oportunidad en IT.
 
 - 📍 Quilicura, Santiago de Chile
 - 🎓 Front-End Developer
-- 🚀 Actualmente aprendiendo: Vue 3 e intención de aprender React
+- 🚀 Actualmente: profundizando Vue 3 y explorando React
 - 💡 Intereses: UI/UX, arquitectura de componentes, transformación digital, desarrollo Web en base a necesidades.
 - 📫 Contacto: <a href="https://www.linkedin.com/in/nicolasparadaarias"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> | [Portafolio (en proceso)](#)
 
@@ -45,7 +45,7 @@ oportunidad profesional en el sector IT.
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [🛒 Product Showcase](https://github.com/NicolasParadaA/product-showcase) | Aplicación web moderna para mostrar productos con autenticación de usuarios y administración de productos | Vue 3, Vuetify, Firebase, Pinia, Vue Router |
-| [💳 Wallet Digital](https://github.com/NicolasParadaA/m2-abp-wallet-digital) (en proceso) | App de billetera digital con diseño responsivo y maquetación avanzada con Box Model | HTML, CSS, JS |
+| [💳 Wallet Digital](https://github.com/NicolasParadaA/m2-abp-wallet-digital) | App de billetera digital con diseño coherente, 5 vistas integradas y persistencia con LocalStorage | Bootstrap 5, JavaScript, CSS3 |
 | [🔥 Proyecto Módulo X](#) (en proceso) | Descripción breve del proyecto | Vue 3, Sass |
 
 
