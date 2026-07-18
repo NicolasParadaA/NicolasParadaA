@@ -37,6 +37,9 @@ Terminé un bootcamp de Desarrollo Frontend Vue.js (Talento Digital - SENCE) y e
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF6B6B?style=for-the-badge&logo=sweetalert2&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -46,7 +49,7 @@ Terminé un bootcamp de Desarrollo Frontend Vue.js (Talento Digital - SENCE) y e
 |---|---|---|
 | [🛒 Product Showcase](https://github.com/NicolasParadaA/product-showcase) | Aplicación web moderna para mostrar productos con autenticación de usuarios y administración de productos | Vue 3, Vuetify, Firebase, Pinia, Vue Router |
 | [💳 Wallet Digital](https://github.com/NicolasParadaA/m2-abp-wallet-digital) | App de billetera digital con diseño coherente, 5 vistas integradas y persistencia con LocalStorage | Bootstrap 5, JavaScript, CSS3 |
-| [🔥 Proyecto Módulo X](#) (en proceso) | Descripción breve del proyecto | Vue 3, Sass |
+| [🤖 BimBam Buy Asistente Virtual](https://github.com/NicolasParadaA/challenge-alura-one) | Chatbot corporativo con RAG que responde preguntas frecuentes de colaboradores usando documentos oficiales de la empresa | Python, Streamlit, FastAPI, LangChain, ChromaDB, Groq, Docker, OCI |
 
 
 ---
