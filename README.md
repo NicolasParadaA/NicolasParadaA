@@ -15,7 +15,7 @@ Terminé un bootcamp de Desarrollo Frontend Vue.js (Talento Digital - SENCE) y e
 - 🎓 Front-End Developer
 - 🚀 Actualmente: profundizando Vue 3 y explorando React
 - 💡 Intereses: UI/UX, arquitectura de componentes, transformación digital, desarrollo Web en base a necesidades.
-- 📫 Contacto: <a href="https://www.linkedin.com/in/nicolasparadaarias"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> | [Portafolio (en proceso)](#)
+- 📫 Contacto: <a href="https://www.linkedin.com/in/nicolasparadaarias"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 
 
 ---
