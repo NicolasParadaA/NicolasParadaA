@@ -43,9 +43,7 @@ Terminé un bootcamp de Desarrollo Frontend Vue.js (Talento Digital - SENCE) y e
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [🏥 MediFlow](https://github.com/No-Country-simulation/G10-LATAM-equipo-8/) | Simulación laboral NoCountry: agente autónomo con IA    
- para triaje de documentos clínicos. Dashboard de triaje (MVP en desarrollo) | React 19, TypeScript,  
- Vite, Tailwind v4, shadcn/ui |                                                                       
+| [🏥 MediFlow](https://github.com/No-Country-simulation/G10-LATAM-equipo-8/) | Simulación laboral NoCountry: agente autónomo con IA para triaje de documentos clínicos. Dashboard de triaje (MVP en desarrollo) | React 19, TypeScript, Vite, Tailwind v4, shadcn/ui |                                                                       
 | [🤖 BimBam Buy Asistente Virtual](https://github.com/NicolasParadaA/challenge-alura-one) | Chatbot corporativo con RAG que responde preguntas frecuentes de colaboradores usando documentos oficiales de la empresa | Python, Streamlit, FastAPI, LangChain, ChromaDB, Groq, Docker, OCI |
 
 
