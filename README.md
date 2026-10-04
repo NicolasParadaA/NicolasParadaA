@@ -11,9 +11,9 @@ Mi formación en diagnóstico técnico y documentación de precisión la aplico 
 
 Terminé un bootcamp de Desarrollo Frontend Vue.js (Talento Digital - SENCE) y en curso de una simulación laboral con un equipo en NoCountry participando del Hackaton G10. Estoy en búsqueda de mi primera oportunidad en IT.
 
-- 📍 Quilicura, Santiago de Chile
+- 📍 Santiago de Chile
 - 🎓 Front-End Developer
-- 🚀 Actualmente: Actualmente: React + TypeScript con NoCountry (MediFlow), mientras profundizo Tailwind CSS y shadcn.
+- 🚀 Actualmente: React + TypeScript con NoCountry (MediFlow), mientras profundizo Tailwind CSS y shadcn.
 - 💡 Intereses: UI/UX, arquitectura de componentes, transformación digital, desarrollo Web en base a necesidades.
 - 📫 Contacto: <a href="https://www.linkedin.com/in/nicolasparadaarias"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 
