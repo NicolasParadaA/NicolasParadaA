@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=300&color=F7C948&center=true&vCenter=true&width=600&speed=10&lines=Hola%2C+soy+Nicolas+Parada!;Front-End+Developer;Vue+3+%7C+JavaScript+%7C+Sass" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=300&color=F7C948&center=true&vCenter=true&width=600&speed=10&lines=Hola%2C+soy+Nicolas+Parada!;Front-End+Developer;React+%2B+TypeScript+%7C+Vue+3+%7C+Sass" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,7 +13,7 @@ Terminé un bootcamp de Desarrollo Frontend Vue.js (Talento Digital - SENCE) y e
 
 - 📍 Quilicura, Santiago de Chile
 - 🎓 Front-End Developer
-- 🚀 Actualmente: profundizando Vue 3 y explorando React
+- 🚀 Actualmente: Actualmente: React + TypeScript con NoCountry (MediFlow), mientras profundizo Tailwind CSS y shadcn.
 - 💡 Intereses: UI/UX, arquitectura de componentes, transformación digital, desarrollo Web en base a necesidades.
 - 📫 Contacto: <a href="https://www.linkedin.com/in/nicolasparadaarias"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 
@@ -47,30 +47,33 @@ Terminé un bootcamp de Desarrollo Frontend Vue.js (Talento Digital - SENCE) y e
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [🛒 Product Showcase](https://github.com/NicolasParadaA/product-showcase) | Aplicación web moderna para mostrar productos con autenticación de usuarios y administración de productos | Vue 3, Vuetify, Firebase, Pinia, Vue Router |
-| [💳 Wallet Digital](https://github.com/NicolasParadaA/m2-abp-wallet-digital) | App de billetera digital con diseño coherente, 5 vistas integradas y persistencia con LocalStorage | Bootstrap 5, JavaScript, CSS3 |
+| [🏥 MediFlow](https://github.com/No-Country-simulation/G10-LATAM-equipo-8/) | Simulación laboral NoCountry: agente autónomo con IA    
+ para triaje de documentos clínicos. Dashboard de triaje (MVP en desarrollo) | React 19, TypeScript,  
+ Vite, Tailwind v4, shadcn/ui |                                                                       
 | [🤖 BimBam Buy Asistente Virtual](https://github.com/NicolasParadaA/challenge-alura-one) | Chatbot corporativo con RAG que responde preguntas frecuentes de colaboradores usando documentos oficiales de la empresa | Python, Streamlit, FastAPI, LangChain, ChromaDB, Groq, Docker, OCI |
 
 
 ---
-
-### 🔍 Caso de Estudio — Product Showcase
-
-> **Proyecto seleccionado como el más representativo de mi crecimiento técnico**
-
-| | |
-|---|---|
-| 📋 **Descripción** | Aplicación web para mostrar productos con autenticación, roles de usuario, CRUD de productos y filtrado |
-| ⚡ **Desafío principal** | Migrar de Bootstrap a Vuetify eliminando la mezcla de frameworks y mejorando la consistencia visual |
-| 💡 **Solución propuesta** | Migración de 8 componentes a Vuetify, mejoras de diseño con sombras y hover effects, documentación profesional |
-| 🛠️ **Herramientas utilizadas** | Vue 3 (Composition API), Vuetify, Firebase Auth, Firebase Firestore, Vue Router, Pinia, Vite, SweetAlert2 |
-| 🎯 **Aprendizajes alcanzados** | Migración de frameworks, diseño responsivo con Vuetify, autenticación con Firebase, manejo de estado, routing, Git workflow, deploy en Firebase Hosting |
-| 📊 **Métricas de impacto** | 8 componentes migrados, 4 commits profesionales, README.md completo, deploy exitoso en producción, URL: https://product-showcase-5a774.web.app |
-| ✅ **Habilidades aplicadas** | Migración de frameworks, diseño responsivo, autenticación con Firebase, manejo de estado, routing, documentación profesional, Git workflow, deploy en producción |
-| ❓ **¿Por qué lo elegí?** | Fue el proyecto donde aprendí a migrar frameworks sin perder funcionalidad y trabajé con un stack completo (frontend + backend + deploy) |
-
----
-
+### ⭐ Proyecto en Desarrollo — MediFlow (NoCountry)                                               
+                                                                                                      
+   > **HealthTech · Simulación laboral · Equipo multidisciplinario (IA, backend Python, Oracle Cloud, 
+ frontend)**                                                                                          
+                                                                                                      
+   Agente autónomo con IA para clasificar y triar documentos clínicos en centros de salud.            
+   Mi rol: **Desarrollador Frontend** (dashboard de triaje).                                          
+                                                                                                      
+   **¿Qué estoy construyendo?**                                                                       
+   - Dashboard de triaje con React 19, TypeScript, Vite, Tailwind CSS v4 y shadcn/ui.                 
+   - Consumo asíncrono con máquina de estados de petición (esperando/error/éxito), reintentos y       
+ manejo de errores visible al usuario.                                                                
+   - Capa de servicios con contratos tipados + API simulada con latencia, para desarrollar en         
+ paralelo al backend real.                                                                            
+   - Git en equipo: ramas de funcionalidad, Conventional Commits y sprints con organización de roles. 
+                                                                                                      
+   **En la próxima iteración:** hooks de datos reutilizables y acciones optimistas de                 
+ aprobación/rechazo.                                                                                  
+                                                                                                      
+   🔗 [Repositorio del equipo](https://github.com/No-Country-simulation/G10-LATAM-equipo-8/)
 
 ### 📊 Estadísticas de GitHub
 
