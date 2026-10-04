@@ -9,7 +9,7 @@
 Ingeniería Mecánica Automotriz reconvertido al Frontend. 
 Mi formación en diagnóstico técnico y documentación de precisión la aplico hoy a construir interfaces web con React, Typescript y Tailwind CSS.
 
-Terminé un bootcamp de Desarrollo Frontend Vue.js (Talento Digital - SENCE) y estoy en búsqueda de mi primera oportunidad en IT.
+Terminé un bootcamp de Desarrollo Frontend Vue.js (Talento Digital - SENCE) y en curso de una simulación laboral con un equipo en NoCountry participando del Hackaton G10. Estoy en búsqueda de mi primera oportunidad en IT.
 
 - 📍 Quilicura, Santiago de Chile
 - 🎓 Front-End Developer
