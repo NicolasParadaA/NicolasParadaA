@@ -6,10 +6,9 @@
 
 ### 🙋‍♂️ Sobre mí
 
-Ingeniería Mecánica Automotriz reconvertido al Frontend. 
-Mi formación en diagnóstico técnico y documentación de precisión la aplico hoy a construir interfaces web con React, Typescript y Tailwind CSS.
+Desarrollador web con orientación Full Stack y experiencia práctica en el desarrollo de interfaces y aplicaciones utilizando React, TypeScript y tecnologías modernas de desarrollo web. He participado en proyectos colaborativos, proponiendo soluciones técnicas y colaborando con equipos multidisciplinarios. Conocimientos complementarios en Python, inteligencia artificial y servicios de Oracle Cloud Infrastructure, aplicados en el desarrollo de un asistente conversacional con arquitectura RAG. Enfoque orientado a la resolución de problemas y aprendizaje continuo.
 
-Terminé un bootcamp de Desarrollo Frontend Vue.js (Talento Digital - SENCE) y en curso de una simulación laboral con un equipo en NoCountry participando del Hackaton G10. Estoy en búsqueda de mi primera oportunidad en IT.
+Terminé un bootcamp de Desarrollo Frontend Vue.js (Talento Digital - SENCE), una simulación laboral con un equipo en NoCountry participando del Hackaton G10 y un curso intensivo de Oracle Cloud Infrastructure Certified AI Foundations Associate. Estoy en búsqueda de mi primera oportunidad en IT.
 
 - 📍 Santiago de Chile
 - 🎓 Front-End Developer
