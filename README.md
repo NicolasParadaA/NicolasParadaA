@@ -62,9 +62,7 @@ Terminé un bootcamp de Desarrollo Frontend Vue.js (Talento Digital - SENCE), un
    - Capa de servicios con contratos tipados + API simulada con latencia, para desarrollar en         
  paralelo al backend real.                                                                            
    - Git en equipo: ramas de funcionalidad, Conventional Commits y sprints con organización de roles. 
-                                                                                                      
-   **En la próxima iteración:** hooks de datos reutilizables y acciones optimistas de                 
- aprobación/rechazo.                                                                                  
+                                                                                                                                                                                      
                                                                                                       
    🔗 [Repositorio del equipo](https://github.com/No-Country-simulation/G10-LATAM-equipo-8/)
 
